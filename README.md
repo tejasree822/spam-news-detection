@@ -11,7 +11,10 @@ The Jupyter Notebook `Spam_News_Detection` contains the following steps:
 
 ## Files
 - `Spam_News_Detection` : Main Jupyter Notebook with all code.  
-- `requirements.txt` : List of Python dependencies required to run the notebook.  
+- `requirements.txt` : List of Python dependencies required to run the notebook.
+
+Note: The original datasets are large and not included in this repository.  
+The notebook demonstrates the workflow using small sample data for illustration.
 
 ## Installation
 
